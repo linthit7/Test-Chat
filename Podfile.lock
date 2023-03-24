@@ -1,0 +1,26 @@
+PODS:
+  - InputBarAccessoryView (5.1.0):
+    - InputBarAccessoryView/Core (= 5.1.0)
+  - InputBarAccessoryView/Core (5.1.0)
+  - MessageKit (3.3.0):
+    - InputBarAccessoryView (~> 5.1.0)
+  - TwilioConversationsClient (1.3.1)
+
+DEPENDENCIES:
+  - MessageKit
+  - TwilioConversationsClient (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - InputBarAccessoryView
+    - MessageKit
+    - TwilioConversationsClient
+
+SPEC CHECKSUMS:
+  InputBarAccessoryView: 19953f486a23e846e9487099f92bbe3456e46ce5
+  MessageKit: 1f07618183be6d92b648ba7a384aafa097362a00
+  TwilioConversationsClient: 10e017b8ef6e6286b444222fffac02914df85b9d
+
+PODFILE CHECKSUM: 0e0fe0b89fc39ff0d85e8e9616c5607b76233f97
+
+COCOAPODS: 1.11.3
